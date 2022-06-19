@@ -1,0 +1,300 @@
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe.config
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\Gestion Restaurant.pdb
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\EntityFramework.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\Npgsql.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Buffers.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Memory.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Text.Json.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Threading.Channels.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\EntityFramework.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\Npgsql.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Buffers.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Memory.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Text.Json.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Threading.Channels.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.AssemblyReference.cache
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterTable.resources
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Properties.Resources.resources
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.GenerateResource.cache
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CopyComplete
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.exe
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.pdb
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterPlat.resources
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterServeur.resources
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Serveur.ModifierServeur.resources
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Table.ModifierTable.resources
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Plat.ModifierPlat.resources
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AffectServerToTable.resources
+C:\Users\Omar Ra\Desktop\Projet .NET\Gestion Restaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterCommande.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe.config
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\Gestion Restaurant.pdb
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\EntityFramework.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\Npgsql.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Buffers.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Memory.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Text.Json.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Threading.Channels.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\EntityFramework.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\Npgsql.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Buffers.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Memory.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Text.Json.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Threading.Channels.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.AssemblyReference.cache
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AffectServerToTable.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterCommande.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterPlat.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Plat.ModifierPlat.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterServeur.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Serveur.ModifierServeur.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterTable.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Properties.Resources.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Table.ModifierTable.resources
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.GenerateResource.cache
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CopyComplete
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.exe
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion Restaurant.pdb
+C:\Users\Home\Source\Repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.LogIn.Login.resources
+C:\Users\Home\source\repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.HomePage.resources
+C:\Users\Home\source\repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormServeur.resources
+C:\Users\Home\source\repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormTable.resources
+C:\Users\Home\source\repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormPlat.resources
+C:\Users\Home\source\repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormCommande.resources
+C:\Users\Home\source\repos\GestionRestaurant\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormFacture.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe.config
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\Gestion Restaurant.pdb
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\EntityFramework.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\Npgsql.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Buffers.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Memory.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Text.Json.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Threading.Channels.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\EntityFramework.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\Npgsql.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Buffers.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Memory.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Text.Json.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Threading.Channels.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.AssemblyReference.cache
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AffectServerToTable.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterCommande.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormCommande.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormFacture.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormPlat.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormServeur.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormTable.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.HomePage.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.LogIn.Login.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterPlat.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Plat.ModifierPlat.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterServeur.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Serveur.ModifierServeur.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterTable.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Properties.Resources.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Table.ModifierTable.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.GenerateResource.cache
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CopyComplete
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion Restaurant.exe
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion Restaurant.pdb
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Serveur.AfficherServeur.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Table.AfficherTable.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Plat.AfficherPlats.resources
+C:\Users\Omar Ra\Desktop\Nouhaila\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Commande.AfficherCommande.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe.config
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Gestion Restaurant.pdb
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Npgsql.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Buffers.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Memory.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Text.Json.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Threading.Channels.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Npgsql.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Buffers.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Memory.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Text.Json.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Threading.Channels.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AffectServerToTable.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Commande.AfficherCommande.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterCommande.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormCommande.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormFacture.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormPlat.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormServeur.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormTable.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.HomePage.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.LogIn.Login.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Plat.AfficherPlats.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterPlat.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Plat.ModifierPlat.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Serveur.AfficherServeur.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterServeur.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Serveur.ModifierServeur.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Table.AfficherTable.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterTable.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Properties.Resources.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Table.ModifierTable.resources
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.GenerateResource.cache
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CopyComplete
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.exe
+C:\Users\Home\source\repos\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.pdb
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe.config
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Gestion Restaurant.exe
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Gestion Restaurant.pdb
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Npgsql.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Buffers.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Memory.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Text.Json.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Threading.Channels.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.ValueTuple.dll
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\EntityFramework6.Npgsql.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\Npgsql.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Buffers.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Memory.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Text.Json.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Threading.Channels.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\bin\Debug\System.ValueTuple.xml
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.AssemblyReference.cache
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AffectServerToTable.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Commande.AfficherCommande.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterCommande.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormCommande.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormFacture.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormPlat.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormServeur.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.FormTable.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Home.HomePage.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.LogIn.Login.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Plat.AfficherPlats.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterPlat.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Plat.ModifierPlat.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Serveur.AfficherServeur.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterServeur.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Serveur.ModifierServeur.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Table.AfficherTable.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.AjouterTable.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Properties.Resources.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion_Restaurant.Table.ModifierTable.resources
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.GenerateResource.cache
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.csproj.CopyComplete
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.exe
+C:\Users\Omar Ra\Desktop\Gestionaire de Restaurant DOT NET\Gestionaire de Restaurant DOT NET\Gestion Restaurant\obj\Debug\Gestion Restaurant.pdb
